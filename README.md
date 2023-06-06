@@ -12,13 +12,13 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+I am a Full Stack Developer from :colombia:.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and desktop applications.
 
-- :seedling: Exploring cyber security for code.
+- :space_invader: Currently I´m exploring cyber security for code.
 
-- :zap: In my free time, I love to read.
+- :dragon_face: In my free time, I love to read and play with my dogs.
 
 ---
 
